@@ -8,3 +8,6 @@ sol = https://leetcode.com/problems/concatenation-of-array/submissions/162584275
 
 3] Running Sum of 1d Array
 sol = https://leetcode.com/problems/running-sum-of-1d-array/submissions/1625879284/
+
+4] Richest Customer Wealth 
+sol = https://leetcode.com/problems/richest-customer-wealth/submissions/1626041856/
