@@ -11,3 +11,6 @@ sol = https://leetcode.com/problems/running-sum-of-1d-array/submissions/16258792
 
 4] Richest Customer Wealth 
 sol = https://leetcode.com/problems/richest-customer-wealth/submissions/1626041856/
+
+5] Shuffle the Array
+sol = https://leetcode.com/problems/shuffle-the-array/submissions/1626687574/
