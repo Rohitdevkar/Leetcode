@@ -29,3 +29,7 @@ optimize way = https://leetcode.com/problems/kids-with-the-greatest-number-of-ca
 7] Number of Good Pairs
 
 sol = https://leetcode.com/problems/number-of-good-pairs/submissions/1626728303/
+
+8] How Many Numbers Are Smaller Than the Current Number
+
+sol = https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/1626755305/
