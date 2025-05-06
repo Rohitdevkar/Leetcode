@@ -25,3 +25,6 @@ sol = https://leetcode.com/problems/shuffle-the-array/submissions/1626687574/
 sol = https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/1626705210/
 
 optimize way = https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/1626717144/
+
+7] Number of Good Pairs
+sol = https://leetcode.com/problems/number-of-good-pairs/submissions/1626728303/
