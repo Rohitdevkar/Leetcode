@@ -23,3 +23,5 @@ sol = https://leetcode.com/problems/shuffle-the-array/submissions/1626687574/
 6] Kids With the Greatest Number of Candies
 
 sol = https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/1626705210/
+
+optimize way = https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/1626717144/
