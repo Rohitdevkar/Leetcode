@@ -33,3 +33,7 @@ sol = https://leetcode.com/problems/number-of-good-pairs/submissions/1626728303/
 8] How Many Numbers Are Smaller Than the Current Number
 
 sol = https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/1626758672/
+
+9]  Create Target Array in the Given Order
+
+sol = https://leetcode.com/problems/create-target-array-in-the-given-order/submissions/1627598328/
