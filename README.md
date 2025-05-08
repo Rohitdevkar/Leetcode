@@ -37,3 +37,11 @@ sol = https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-curren
 9]  Create Target Array in the Given Order
 
 sol = https://leetcode.com/problems/create-target-array-in-the-given-order/submissions/1627598328/
+
+10] Check if the Sentence Is Pangram
+
+sol = https://leetcode.com/problems/check-if-the-sentence-is-pangram/submissions/1628337909/
+
+optimize way = https://leetcode.com/problems/check-if-the-sentence-is-pangram/submissions/1628341527/
+
+
